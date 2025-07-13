@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/She/He
 - 💻 **Computer Science Student at The University of Pretoria** </br>
 - 🔭 I’m currently working on **something special** 🙂‍↕️
-- 📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VadersTouch@gmail.com)</br>
+- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VadersTouch@gmail.com)</br>
 
 
   

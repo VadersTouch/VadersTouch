@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there! 👋
+## General Kenobi 😄
 
 <!--
 **VadersTouch/VadersTouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: They/She/He
+- 💻 **Computer Science Student at The University of Pretoria** </br>
+- 🔭 I’m currently working on **something special** 🙂‍↕️
+- 📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VadersTouch@gmail.com)</br>
+
+
+  
+- ⚡ Fun fact: Im not actualy Darth Vader 😲

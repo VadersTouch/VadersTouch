@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns: They/She/He
+- 😄 Pronouns: They/She
 - 💻 **Computer Science Student at The University of Pretoria** </br>
 - 🔭 I’m currently working on **something special** 🙂‍↕️
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VadersTouch@gmail.com)</br>
